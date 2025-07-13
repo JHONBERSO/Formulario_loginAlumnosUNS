@@ -31,7 +31,7 @@ En la parte inferior, se  muestra una  notficacion que dice "No se pudo registra
 
 Si se ha registrado en firebase, por lo tanto desde esta pestaña podemos  agregar otra cuenta, eliminar, inhabilitar y restablcer la contraseña e  inclusive eliminarla.
 
-### 7.4️⃣ **INICIO DE SESION FAALLIDO**
+### 7.4️⃣ **INICIO DE SESION FALLIDO**
 <img width="364" height="809" alt="image" src="https://github.com/user-attachments/assets/1e091a25-0297-49d9-9224-67b5705db8be" />
 
 Aqui se  puede visualiar que tambien hay un control en el que se hace la verificacion en tiempo real en caso el usuario intente ingresar otro correo que no cumple con la grafia del correo de la universidad y otra contraseña que sea menor a 6 caracteres.
