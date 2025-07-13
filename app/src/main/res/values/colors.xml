@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_translucent">#1E4E79</color> <!-- 60% opacidad -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="gray_dark">#B0B0B0</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="button_disabled">#555555</color>
+
+
+
+
+</resources>

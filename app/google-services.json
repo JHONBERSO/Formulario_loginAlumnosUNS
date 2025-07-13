@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080819913590",
+    "project_id": "loginuns",
+    "storage_bucket": "loginuns.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080819913590:android:8266f1838ba4a544306057",
+        "android_client_info": {
+          "package_name": "com.example.formulario_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBb2yVOBRDvemy0IxBX9ZDjyua2nHuPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
