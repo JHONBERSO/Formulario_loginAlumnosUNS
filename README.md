@@ -24,7 +24,7 @@ Se  puede notar que el registro fue exitoso, y de inmediato nos aparece esta ven
 ### 5.4️⃣ **REGISTRO FALLIDO(intentando crear una cuenta con el mismo correo)**
 <img width="382" height="812" alt="image" src="https://github.com/user-attachments/assets/320cf861-44dd-4f49-b60e-76ddc6965b04" />
 
-se  muestra una  notficacion que dice "no se ha podido crear esa cuenta por que  ya esta registrado", pese a que en lo apartados de email y contraseña  no me detecta error.
+En la parte inferior, se  muestra una  notficacion que dice "no se ha podido crear esa cuenta por que  ya esta registrado", pese a que en lo apartados de email y contraseña  no me detecta error.
 
 ### 6.4️⃣ **VERIFICACION EN FIREBASE **
 <img width="1596" height="681" alt="image" src="https://github.com/user-attachments/assets/fa519a39-f595-4f58-aa5b-88ea046b0110" />
