@@ -3,7 +3,7 @@
 ### 1.4️⃣ **LOGIN**
 <img width="392" height="813" alt="image" src="https://github.com/user-attachments/assets/4f567138-bbed-4ee4-86b8-169c2f48c65d" />
 
-la imagen muestra una pantalla de inicio de sesión para una aplicación móvil, en Android Studio.
+La imagen muestra una pantalla de inicio de sesión para una aplicación móvil, en Android Studio.
 
 ### 2.4️⃣ **CREAR CUENTA**
 <img width="375" height="805" alt="image" src="https://github.com/user-attachments/assets/71b9424c-9ae0-4867-9256-d3cb1eaef9a6" />
@@ -19,7 +19,7 @@ En esta imagen se  puede visualizar que el Uusuario a escrito correctamente su c
 ### 4.4️⃣ **REGISTRO EXISTOSO**
 <img width="386" height="811" alt="image" src="https://github.com/user-attachments/assets/9af75bcb-91d6-4c9b-9a49-646ba6359178" />
 
-Se  puede notar que el registro fue exitoso, y de inmediato me aparece esta ventana para confirmarlo.
+Se  puede notar que el registro fue exitoso, y de inmediato nos aparece esta ventana para confirmarlo.
 
 ### 5.4️⃣ **REGISTRO FALLIDO(intentando crear una cuenta con el mismo correo)**
 <img width="382" height="812" alt="image" src="https://github.com/user-attachments/assets/320cf861-44dd-4f49-b60e-76ddc6965b04" />
@@ -40,5 +40,5 @@ Aqui se  puede visualiar que tambien hay un control en el que se hace la verific
 <img width="388" height="820" alt="image" src="https://github.com/user-attachments/assets/d3c0f2f8-6692-4434-b086-ec6fd4b1d9a2" />
 <img width="374" height="805" alt="image" src="https://github.com/user-attachments/assets/96046d01-e7aa-4fb5-9363-a46f772b7304" />
 
-se ha verificado en tiempo real los datos del usuario  que previamente ya se habia registrado  y con ello intentaremos ingresar a su cuenta nuenvamente para ver si esta registrado correctamente. Dado que  no presenta ningun error de  inmediato nos deja ingresar ingresar a la vista de Informacion del Uusario.
+Se ha verificado en tiempo real los datos del usuario  que previamente ya se habia registrado  y con ello intentaremos ingresar a su cuenta nuenvamente para ver si esta registrado correctamente. Dado que  no presenta ningun error de  inmediato nos deja ingresar ingresar a la vista de Informacion del Uusario.
 
